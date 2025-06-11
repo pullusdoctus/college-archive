@@ -1,0 +1,3 @@
+[submodule "planificador-de-procesos"]
+	path = planificador-de-procesos
+	url = git@pd:pullusdoctus/planificador-de-procesos.git
