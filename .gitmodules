@@ -1,3 +1,15 @@
 [submodule "planificador-de-procesos"]
 	path = planificador-de-procesos
 	url = git@pd:pullusdoctus/planificador-de-procesos.git
+[submodule "dsa"]
+	path = dsa
+	url = git@github.com:pullusdoctus/ci0116_25a_b96804
+[submodule "tareas_ensambla"]
+	path = tareas_ensambla
+	url = git@github.com:pullusdoctus/tareas-ensambla.git
+[submodule "assembler-voice-assistant"]
+	path = assembler-voice-assistant
+	url = git@github.com:pullusdoctus/assembler-voice-assistant.git
+[submodule "probabilidad-y-estadistica"]
+	path = probabilidad-y-estadistica
+	url = git@github.com:pullusdoctus/probabilidad-y-estadistica.git
